@@ -1,7 +1,9 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=91f48a&height=120&text=spiaminto's%20GitHub&animation=fadeIn&fontColor=4d4d4d&fontSize=50)
 
 # :wave: 소개
-배우고 익힌것들로 하나 하나 만들어 가고 있습니다.
+배우고 익힌것들로 하나 하나 만들어 가고 있습니다.  
+
+<br>  
 
 # :file_folder: 프로젝트 목록
 ## 1. :microphone: 노래방 일본 신곡 알림이 [-> 서비스로 이동](https://jsongnoti.com)   
@@ -17,7 +19,9 @@
 ### 3.1 게시판 서비스 [-> 서비스로 이동](http://spia.ap-northeast-2.elasticbeanstalk.com/spiaboard/boards)  
 게시판 서비스 **[리포지토리](https://github.com/spiaminto/boardJpa)**  
 ### 3.2 채팅 with GPT 서비스 [-> 서비스로 이동](http://spia.ap-northeast-2.elasticbeanstalk.com/spiachat/lobby)   
-채팅 with GPT **[리포지토리](https://github.com/spiaminto/spiaChat)**
+채팅 with GPT **[리포지토리](https://github.com/spiaminto/spiaChat)**  
+  
+<br>
 
 # 🛠️ 기술스택
 사용해본 기술들입니다.  
@@ -41,6 +45,8 @@
 ![](https://img.shields.io/badge/PostgreSQL-3776ab?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![](https://img.shields.io/badge/AmazonAWS-FF7F00?style=flat-square&logo=AmazonWebServices&logoColor=white)
 
+<br>
+
 # :pencil: 블로그, 연락처
 [![](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://spiaminto.tistory.com/)](https://spiaminto.tistory.com/)
   
@@ -49,6 +55,8 @@
 [![](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spiaminto@gmail.com)](mailto:spiaminto@gmail.com)
 
 Gmail링크 입니다
+
+<br>
 
 # 🏅 Stats 
 
