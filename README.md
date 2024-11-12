@@ -3,7 +3,7 @@
 ## 소개
 배우고 익힌것들로 하나 하나 만들어 가고 있습니다.
 
-### 노래방 일본 신곡 알림이  
+### 노래방 일본 신곡 알림이
 **[-> 서비스로 이동](https://jsongnoti.com)**   
 웹 앱 리포지토리로 **[이동하기](https://github.com/spiaminto/JsongNoti-web)**   
 람다 리포지토리로 **[이동하기](https://github.com/spiaminto/JsongNoti)**
@@ -25,6 +25,7 @@
 
 ## 🛠️ 기술스택
 사용해본 기술들입니다.  
+  
 ![](https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-1592b6?style=flat-square&logo=CSS3&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-795eb3?style=flat-square&logo=Bootstrap&logoColor=white)
@@ -35,7 +36,8 @@
 ![](https://img.shields.io/badge/AWSLambda-ffba75?style=flat-square&logo=AWSLambda&logoColor=white) 
 
   
-깊게 공부할 기술들입니다.
+깊게 공부할 기술들입니다.  
+  
 ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)   
 ![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white) 
 ![](https://img.shields.io/badge/Thymeleaf-6D933F?style=flat-square&logo=Thymeleaf&logoColor=white) 
