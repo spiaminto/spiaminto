@@ -5,23 +5,23 @@
 
 배우고 익힌것들로 하나 하나 만들어 가고 있습니다.
 
-노래방 일본 신곡 알림이  
-[-> 서비스로 이동](https://jsongnoti.com)   
+### 노래방 일본 신곡 알림이  
+<a href="https://jsongnoti.com" target="_blank"> 서비스로 이동 </a>  
 웹 앱 리포지토리로[이동하기](https://github.com/spiaminto/JsongNoti-web)   
 람다 리포지토리로[이동하기](https://github.com/spiaminto/JsongNoti)
 
 DcScraper 라이브러리   
 [라이브러리 리포지토리](https://github.com/spiaminto/DcScraper)   
 위의 라이브러리를 이용한 검색기   
-[-> 검색기 서비스로 이동](http://spia.ap-northeast-2.elasticbeanstalk.com/gitgallsearch)   
+<a href="http://spia.ap-northeast-2.elasticbeanstalk.com/gitgallsearch" target="_blank">검색기 서비스로 이동</a>  
 검색기 리포지토리로 [이동하기](https://github.com/spiaminto/GitGallSearch)   
 데이터 수집/가공 리포지토리로 [이동하기](https://github.com/spiaminto/GitGallSearchBack)
 
 학습 적용 및 활용 프로젝트  
-[-> 게시판 서비스로 이동](http://spia.ap-northeast-2.elasticbeanstalk.com/spiaboard/boards)  
+<a href="http://spia.ap-northeast-2.elasticbeanstalk.com/spiaboards/boards" target="_blank">게시판 서비스로 이동</a>  
 게시판 서비스 리포지토리로 [이동하기](https://github.com/spiaminto/boardJpa)  
-  
-[-> 채팅 with GPT 서비스로 이동](http://spia.ap-northeast-2.elasticbeanstalk.com/spiachat/lobby)   
+
+<a href="http://spia.ap-northeast-2.elasticbeanstalk.com/spiachat/lobby" target="_blank">채팅 with GPT 서비스로 이동</a>  
 채팅 with GPT 리포지토리로 [이동하기](https://github.com/spiaminto/spiaChat)
 
 🛠️ 기술스택
