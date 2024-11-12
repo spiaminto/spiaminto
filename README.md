@@ -1,29 +1,26 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=91f48a&height=120&text=spiaminto's%20GitHub&animation=fadeIn&fontColor=4d4d4d&fontSize=50)
 
-소개
----
+# 소개
+
 배우고 익힌것들로 하나 하나 만들어 가고 있습니다.
 
-프로젝트 목록
----
+# 프로젝트 목록
 ## 1. 노래방 일본 신곡 알림이 **[-> 서비스로 이동](https://jsongnoti.com)**   
 웹 앱 리포지토리로 **[이동하기](https://github.com/spiaminto/JsongNoti-web)**   
 람다 리포지토리로 **[이동하기](https://github.com/spiaminto/JsongNoti)**  
 
----
-### 2. DcScraper 라이브러리 **[-> 라이브러리 리포지토리](https://github.com/spiaminto/DcScraper)**   
-#### 2.1 위의 라이브러리를 이용한 검색기 **[-> 서비스로 이동](http://spia.ap-northeast-2.elasticbeanstalk.com/gitgallsearch)**     
+## 2. DcScraper 라이브러리 **[-> 라이브러리 리포지토리](https://github.com/spiaminto/DcScraper)**   
+### 2.1 위의 라이브러리를 이용한 검색기 **[-> 서비스로 이동](http://spia.ap-northeast-2.elasticbeanstalk.com/gitgallsearch)**     
 검색기 리포지토리로 **[이동하기](https://github.com/spiaminto/GitGallSearch)**   
 데이터 수집/가공 리포지토리로 **[이동하기](https://github.com/spiaminto/GitGallSearchBack)**
 
----
-### 3. 학습 적용 및 활용 프로젝트
-#### 3.1 게시판 서비스 **[-> 서비스로 이동](http://spia.ap-northeast-2.elasticbeanstalk.com/spiaboard/boards)**  
+## 3. 학습 적용 및 활용 프로젝트
+### 3.1 게시판 서비스 **[-> 서비스로 이동](http://spia.ap-northeast-2.elasticbeanstalk.com/spiaboard/boards)**  
 게시판 서비스 리포지토리로 **[이동하기](https://github.com/spiaminto/boardJpa)**  
-#### 3.2 채팅 with GPT 서비스 **[-> 서비스로 이동](http://spia.ap-northeast-2.elasticbeanstalk.com/spiachat/lobby)**   
+### 3.2 채팅 with GPT 서비스 **[-> 서비스로 이동](http://spia.ap-northeast-2.elasticbeanstalk.com/spiachat/lobby)**   
 채팅 with GPT 리포지토리로 **[이동하기](https://github.com/spiaminto/spiaChat)**
 
-## 🛠️ 기술스택
+# 🛠️ 기술스택
 사용해본 기술들입니다.  
   
 ![](https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=HTML5&logoColor=white)
@@ -45,7 +42,7 @@
 ![](https://img.shields.io/badge/PostgreSQL-3776ab?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![](https://img.shields.io/badge/AmazonAWS-FF7F00?style=flat-square&logo=AmazonWebServices&logoColor=white)
 
-## 블로그, 연락처
+# 블로그, 연락처
 [![](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://spiaminto.tistory.com/)](https://spiaminto.tistory.com/)
   
 개발하면서 고민한 것들을 기록한 블로그 입니다
