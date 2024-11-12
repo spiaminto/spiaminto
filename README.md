@@ -1,10 +1,10 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=91f48a&height=120&text=spiaminto's%20GitHub&animation=fadeIn&fontColor=4d4d4d&fontSize=50)
 
-# 소개
+# :wave: 소개
 배우고 익힌것들로 하나 하나 만들어 가고 있습니다.
 
-# 프로젝트 목록
-## 1. 노래방 일본 신곡 알림이 [-> 서비스로 이동](https://jsongnoti.com)   
+# :file_folder: 프로젝트 목록
+## 1. :microphone: 노래방 일본 신곡 알림이 [-> 서비스로 이동](https://jsongnoti.com)   
 웹 앱 **[리포지토리](https://github.com/spiaminto/JsongNoti-web)**   
 람다 **[리포지토리](https://github.com/spiaminto/JsongNoti)**  
 
@@ -41,7 +41,7 @@
 ![](https://img.shields.io/badge/PostgreSQL-3776ab?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![](https://img.shields.io/badge/AmazonAWS-FF7F00?style=flat-square&logo=AmazonWebServices&logoColor=white)
 
-# 블로그, 연락처
+# :pencil: 블로그, 연락처
 [![](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://spiaminto.tistory.com/)](https://spiaminto.tistory.com/)
   
 개발하면서 고민한 것들을 기록한 블로그 입니다
@@ -50,7 +50,7 @@
 
 Gmail링크 입니다
 
-# 🏅 Stats
+# 🏅 Stats 
 
 ![](https://github-readme-stats.vercel.app/api?username=spiaminto&bg_color=180,00000000,00000000&title_color=4d4d4d&text_color=4d4d4d) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=spiaminto&layout=compact&bg_color=180,00000000,00000000&title_color=4d4d4d&text_color=4d4d4d)
