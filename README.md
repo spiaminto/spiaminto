@@ -1,6 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=91f48a&height=120&text=spiaminto's%20GitHub&animation=fadeIn&fontColor=4d4d4d&fontSize=50)
 
 ## 소개
+---
 배우고 익힌것들로 하나 하나 만들어 가고 있습니다.
 
 ## 프로젝트 목록
