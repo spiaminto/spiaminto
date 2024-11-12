@@ -1,11 +1,12 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=91f48a&height=120&text=spiaminto's%20GitHub&animation=fadeIn&fontColor=4d4d4d&fontSize=50)
 
-# 소개
+소개
 ---
 배우고 익힌것들로 하나 하나 만들어 가고 있습니다.
 
-## 프로젝트 목록
-### 1. 노래방 일본 신곡 알림이 **[-> 서비스로 이동](https://jsongnoti.com)**   
+프로젝트 목록
+---
+## 1. 노래방 일본 신곡 알림이 **[-> 서비스로 이동](https://jsongnoti.com)**   
 웹 앱 리포지토리로 **[이동하기](https://github.com/spiaminto/JsongNoti-web)**   
 람다 리포지토리로 **[이동하기](https://github.com/spiaminto/JsongNoti)**  
 
