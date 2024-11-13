@@ -58,7 +58,7 @@ OpenAI 의 Api 를 이용하여 여러 사람이 GPT 와 함께 채팅할 수 �
 # :pencil: 블로그, 연락처
 [![](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://spiaminto.tistory.com/)](https://spiaminto.tistory.com/)
   
-개발하면서 고민한 것들을 기록한 블로그 입니다
+개발하면서 부딪힌 난관과 그에 대해 고민한 것들을 기록한 블로그 입니다
 
 [![](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spiaminto@gmail.com)](mailto:spiaminto@gmail.com)
 
