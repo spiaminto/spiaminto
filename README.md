@@ -9,6 +9,7 @@
 ## 1. :microphone: 노래방 일본 신곡 알림이 [-> 서비스로 이동](https://jsongnoti.com)   
 TJ, 금영 노래방에 일본 신곡이 등록되면 알림 메일을 받을 수 있는 서비스 입니다.  
 **[웹앱 리포지토리](https://github.com/spiaminto/JsongNoti-web)** / **[람다함수 리포지토리](https://github.com/spiaminto/JsongNoti)**
+
 <br>
 
 ## 2. DcScraper 라이브러리 
@@ -17,6 +18,7 @@ TJ, 금영 노래방에 일본 신곡이 등록되면 알림 메일을 받을 �
 ### 2.1 Github 갤러리 검색기 [-> 서비스로 이동](http://spia.ap-northeast-2.elasticbeanstalk.com/gitgallsearch)
 위의 라이브러리를 이용하여 수집한 Github 갤러리의 글을 유사도 기반으로 검색할 수 있는 서비스 입니다.    
 **[웹앱 리포지토리](https://github.com/spiaminto/GitGallSearch)** / **[데이터 수집,가공 리포지토리](https://github.com/spiaminto/GitGallSearchBack)**
+
 <br>
 
 ## 3. 학습 적용 및 활용 프로젝트
