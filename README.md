@@ -6,9 +6,9 @@
 <br>  
 
 # :file_folder: 프로젝트 목록
-## 1. :microphone: 노래방 일본 신곡 알림이 [-> 서비스로 이동](https://jsongnoti.com)   
-TJ, 금영 노래방에 일본 신곡이 등록되면 알림 메일을 받을 수 있는 서비스 입니다.  
-**[웹앱 리포지토리](https://github.com/spiaminto/JsongNoti-web)** / **[람다함수 리포지토리](https://github.com/spiaminto/JsongNoti)**
+## 1. :microphone: 제이노티 [-> 서비스로 이동](https://jsongnoti.com)   
+TJ, 금영 노래방의 일본곡 검색, 애창곡 저장 및 신곡에 대한 알림메일 서비스를 제공하는 웹앱입니다.   
+**[웹앱 리포지토리](https://github.com/spiaminto/JsongNoti-web)** 
 
 <br>
 
