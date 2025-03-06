@@ -6,28 +6,37 @@
 <br>  
 
 # :file_folder: 프로젝트 목록
-## 1. :microphone: 제이노티 [-> 서비스로 이동](https://jsongnoti.com)   
-TJ, 금영 노래방의 일본곡 검색, 애창곡 저장 및 신곡에 대한 알림메일 서비스를 제공하는 웹앱입니다.   
-**[웹앱 리포지토리](https://github.com/spiaminto/JsongNoti-web)** 
+## 1. :microphone: 제이노티 [-> 서비스로 이동](https://jsongnoti.com)    
+TJ, 금영 노래방의 일본곡 검색, 애창곡 저장 및 신곡 등록시 알림메일 전송 기능을 제공하는 서비스입니다.  
+좋아하는 가수의 곡이 등록되었는지 매주 검색하는것이 귀찮아서 시작한 프로젝트이며 이후 한글검색, 애창곡 저장 기능등을 추가해 운영하고 있습니다.  
+자세한 내용은 **[리포지토리 링크](https://github.com/spiaminto/JsongNoti-web)** 에서 확인하실 수 있습니다.
 
 <br>
 
-## 2. DcScraper 라이브러리 
-국내 커뮤니티 디시 인사이드의 글을 수집하는 스크래핑 라이브러리 입니다.  
-**[라이브러리 리포지토리](https://github.com/spiaminto/DcScraper)**  
-### 2.1 Github 갤러리 검색기 [-> 서비스로 이동](http://spia.ap-northeast-2.elasticbeanstalk.com/gitgallsearch)
-위의 라이브러리를 이용하여 수집한 Github 갤러리의 글을 유사도 기반으로 검색할 수 있는 서비스 입니다.    
-**[웹앱 리포지토리](https://github.com/spiaminto/GitGallSearch)** / **[데이터 수집,가공 리포지토리](https://github.com/spiaminto/GitGallSearchBack)**
+## 2. Github 갤러리 검색기 [-> 서비스로 이동](http://spia.ap-northeast-2.elasticbeanstalk.com/gitgallsearch)
+기술 관련 유튜브를 보던중 Openai 의 임베딩 API 를 이용하여 추천 서비스를 간편하게 만들 수 있다는 정보를 접하여 시작한 프로젝트 입니다.  
+원래 목표는 커뮤니티 게시판에서 해외 게임 공략정보 등을 더 찾기 쉽도록 하는것이었으나 실제 구현후 생각만큼 정확도가 높지 않아 아쉬웠던 기억이 있습니다.  
+현재는 해당 데이터를 폐기하고 프로그래밍 및 개발자 취업, 면접 관련 정보가 올라오는 Github 갤러리의 글을 수집 및 검색 하는 정도로 마무리 되었습니다.  
+수십만건의 데이터를 빠르게 저장 및 임베딩하기 위해 BulkInsert, 비동기 작업등 여러 시도를 해본 프로젝트 입니다.
+**[웹앱 리포지토리 링크](https://github.com/spiaminto/GitGallSearch)** / **[데이터 수집,가공 리포지토리 링크](https://github.com/spiaminto/GitGallSearchBack)**
+### 2.1 DC scraper 라이브러리
+검색기를 만들고 난 뒤 아쉬운 마음에 검색기를 만들때 사용했던 스크래퍼를 떼어내어 다듬은 라이브러리 입니다.  
+직접 라이브러리를 만들고 등록하여 gradle 을 통해 끌어와 써볼수 있었던 재밌는 경험이었습니다.  
+**[라이브러리 리포지토리 링크](https://github.com/spiaminto/DcScraper)**
 
 <br>
 
 ## 3. 학습 적용 및 활용 프로젝트
-### 3.1 게시판 서비스 [-> 서비스로 이동](http://spia.ap-northeast-2.elasticbeanstalk.com/spiaboard/boards)
-일반적인 게시판 사이트에서 확인할수 있는 다양한 기능들을 구현한 게시판 서비스 입니다.  
-**[리포지토리](https://github.com/spiaminto/boardJpa)**  
-### 3.2 채팅 with GPT 서비스 [-> 서비스로 이동](http://spia.ap-northeast-2.elasticbeanstalk.com/spiachat/lobby)
-OpenAI 의 Api 를 이용하여 여러 사람이 GPT 와 함께 채팅할 수 있는 채팅 서비스입니다.  
-**[리포지토리](https://github.com/spiaminto/spiaChat)**  
+
+### 3.1 채팅 with GPT 서비스 [-> 서비스로 이동](http://spia.ap-northeast-2.elasticbeanstalk.com/spiachat/lobby)
+웹소켓, STOMP 프로토콜과 OpenAI Api 를 이용하여 개발한 여러 사람들이 GPT 와 함께 채팅할 수 있는 서비스입니다. 
+GPT 와 함꼐 스무고개 게임을 할 수 있도록 구현하였는데, 친구들의 다양한 프롬프트 입력을 방어하느라 고생했던 기억이 나네요.
+**[리포지토리 링크](https://github.com/spiaminto/spiaChat)**
+
+### 3.2 게시판 서비스 [-> 서비스로 이동](http://spia.ap-northeast-2.elasticbeanstalk.com/spiaboard/boards)
+일반적인 커뮤니티 게시판에서 볼 수 있는 다양한 기능을 직접 구현해보기 위해 진행한 프로젝트 입니다.  
+친구들에게 배포후 피드백을 받으며 단순히 구현하는것 이상으로 검증이나 보안 등 신경 써야하는것이 많다는 것을 깨닫게 해준 프로젝트 입니다.
+**[리포지토리 링크](https://github.com/spiaminto/boardJpa)**
   
 <br>
 
@@ -58,7 +67,7 @@ OpenAI 의 Api 를 이용하여 여러 사람이 GPT 와 함께 채팅할 수 �
 # :pencil: 블로그, 연락처
 [![](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://spiaminto.tistory.com/)](https://spiaminto.tistory.com/)
   
-개발하면서 부딪힌 난관과 그에 대해 고민한 것들을 기록한 블로그 입니다
+개발하면서 발생한 문제와 그에 대해 고민한 것들을 기록한 블로그 입니다
 
 [![](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spiaminto@gmail.com)](mailto:spiaminto@gmail.com)
 
