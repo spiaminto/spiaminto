@@ -30,7 +30,7 @@ TJ, 금영 노래방의 일본곡 검색, 애창곡 저장 및 신곡 등록시 
 
 ### 3.1 채팅 with GPT 서비스 [-> 서비스로 이동](http://spia.ap-northeast-2.elasticbeanstalk.com/spiachat/lobby)
 웹소켓, STOMP 프로토콜과 OpenAI Api 를 이용하여 개발한 여러 사람들이 GPT 와 함께 채팅할 수 있는 서비스입니다. 
-GPT 와 함꼐 스무고개 게임을 할 수 있도록 구현하였는데, 친구들의 다양한 프롬프트 입력을 방어하느라 고생했던 기억이 나네요.  
+GPT 와 함께 스무고개 게임을 할 수 있도록 구현하였는데, 친구들의 다양한 프롬프트 입력을 방어하느라 고생했던 기억이 있습니다.  
 **[리포지토리 링크](https://github.com/spiaminto/spiaChat)**
 
 ### 3.2 게시판 서비스 [-> 서비스로 이동](http://spia.ap-northeast-2.elasticbeanstalk.com/spiaboard/boards)
