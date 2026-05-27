@@ -19,10 +19,6 @@ TJ, 금영 노래방의 일본곡 검색, 애창곡 저장 및 신곡 등록시 
 현재는 해당 데이터를 폐기하고 프로그래밍 및 개발자 취업, 면접 관련 정보가 올라오는 Github 갤러리의 글을 수집 및 검색 하는 정도로 마무리 되었습니다.  
 수십만건의 데이터를 빠르게 저장 및 임베딩하기 위해 BulkInsert, 비동기 작업등 여러 시도를 해본 프로젝트 입니다.  
 **[웹앱 리포지토리 링크](https://github.com/spiaminto/GitGallSearch)** / **[데이터 수집,가공 리포지토리 링크](https://github.com/spiaminto/GitGallSearchBack)**
-### 2.1 DC scraper 라이브러리
-검색기를 만들고 난 뒤 아쉬운 마음에 검색기를 만들때 사용했던 스크래퍼를 떼어내어 다듬은 라이브러리 입니다.  
-직접 라이브러리를 만들고 등록하여 gradle 을 통해 끌어와 써볼수 있었던 재밌는 경험이었습니다.  
-**[라이브러리 리포지토리 링크](https://github.com/spiaminto/DcScraper)**
 
 <br>
 
